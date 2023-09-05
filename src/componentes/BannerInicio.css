@@ -1,0 +1,36 @@
+#container-banner-inicio {
+  /*background-color: #008040;*/
+  background-image:linear-gradient(45deg, #008040 40%,yellow, red );
+  text-align: center;
+  padding: 48px 0;
+  background-size: contain;
+  background-position-y: center;
+  background-position-x: center;
+  background-repeat: no-repeat;	
+}
+
+#container-banner-inicio img {
+  width: 1000px;
+  height:500px;
+  margin:20px;
+}
+
+h1{
+ color:#ffffff;
+  font-size:50px;
+  margin:0px;
+  margin-bottom:40px;
+
+}
+
+.gradient{
+   font-size: 4em;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+   background-image: linear-gradient(#001fff, #da0309);
+   background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+
+}

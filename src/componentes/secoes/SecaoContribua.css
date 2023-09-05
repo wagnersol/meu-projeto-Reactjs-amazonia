@@ -1,0 +1,22 @@
+.secaoContribua {
+  background-color: #2df446;
+  text-align:center;
+  padding: 40px 200px;
+  color: white;
+  height: fit-content;
+}
+
+.secaoContribua h2 {
+  font-size: 60px;
+  margin:0;
+  
+}
+
+.secaoContribuaConteudo {
+  font-size: 40px;
+}
+
+.secaoContribua img {
+  width: 350px;
+}
+

@@ -1,0 +1,43 @@
+.secaoSobre {
+  background-image:linear-gradient(#008040,#1010ab);
+  text-align:center;
+  padding: 40px 200px;
+ /* margin:10px;*/
+  
+  color: #d01d09; /*aqui mudar a cor dos nome sobre araras e contribua*/
+}
+
+.secaoSobre h2 {
+  font-size: 60px;
+  margin: 0;
+}
+
+.secaoSobreConteudo {
+  font-size: 30px;
+  color: #ffffff; /*muda a cor das letras dos texto sosre aras e sobre contribua*/
+}
+
+.secaoSobre a {
+  background-color: transparent;
+  border-color: white;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid;
+  font-size: large;
+  padding: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.secaoSobre a:hover {
+  color: #212529;
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
+}
+
+.secaoSobre button {
+  border: none;
+  margin-top:50px;
+  background-color: transparent;
+  margin-bottom: 20px;
+}
